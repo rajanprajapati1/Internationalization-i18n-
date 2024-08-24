@@ -1,0 +1,27 @@
+{
+  "lang": {
+    "hero": {
+      "title": "Bienvenido a Nuestro Servicio",
+      "subtitle": "Ofrecemos las mejores soluciones para las necesidades de su negocio.",
+      "buttonText": "Comenzar"
+    },
+    "features": [
+      {
+        "title": "Alta Calidad",
+        "description": "Nuestros productos están hechos para durar con materiales de alta calidad."
+      },
+      {
+        "title": "Precios Asequibles",
+        "description": "Ofrecemos precios competitivos en todos nuestros productos."
+      },
+      {
+        "title": "Soporte al Cliente",
+        "description": "Nuestro equipo de soporte está disponible 24/7 para asistirle."
+      }
+    ],
+    "callToAction": {
+      "title": "¡Únase a nosotros hoy y potencie su negocio!",
+      "buttonText": "Regístrate Ahora"
+    }
+  }
+}
